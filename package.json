@@ -1,0 +1,22 @@
+{
+  "name": "keyboard_robot",
+  "version": "1.0.0",
+  "description": "Emit keyboard key presses",
+  "main": "robot.js",
+  "scripts": {
+    "test": "robot.single(\"A\");"
+  },
+  "author": "strelomet3000",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimurSennikov/keyboard_robot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TimurSennikov/keyboard_robot/issues"
+  },
+  "homepage": "https://github.com/TimurSennikov/keyboard_robot#readme"
+}
